@@ -51,7 +51,16 @@ The awk  and sed commands. The first one as filtering language utility is a very
 
 9-what is git ?
 
+Git stands for Distributed Version Control System that was created by Linus Trovalds to allow developer to share their code. Practicaly, it is a tool that enables users to access github repository to deposit and share their code.
+
 
 
 10- Data service staff you with a company , and they want you to advise or help them secure thier ubuntu servers. How would you do that?
+
+I will also check the type of activities carry out by my compagny in order to evalua
+te their need in security.
+I will try to know wheter my compagny is ready for a paid systeme security or a free one.
+I will turn to CIS Benchmarks which are the only consesus-based,best-practice security configuration guides both develop and accepted by government, business, industry,and academia.
+I will try to know wheter my compagny is ready for a paid systeme security or a free one.
+I will turn to CIS Benchmarks which are the only consesus-based,best-practice security configuration guides both develop and accepted by government, business, industry,and academia.I will go to their  web side to look for an objective, consensus-driven security guideline for the Ubuntu Linux Operating Systems.
 
