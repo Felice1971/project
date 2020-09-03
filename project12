@@ -1,0 +1,57 @@
+
+
+Project 12
+
+Watch the video in week 13 and answer below questions
+
+1- What is a script?
+
+A script is a way of automating processes. This is done through the creation of a file where are written series of commands that will be executed by the shell. 
+
+
+
+2- How can you run a script that does not have execute permission?
+
+To run a script that does not have execute permission, we need to pass the script as an argument to our choice of interpreter.
+If the shell scrip is named myscript.sh. We could run i this way:
+
+	$ sh myscript.sh
+or 
+	$ bash myscript.sh
+
+
+
+3- What is a for loop?
+
+A 'for loop'is a bash programming language statement which allows code or command to be repeatedly executed. It is the repetition of a process within a bash script and for this reason it is classified as an iteration statement.
+
+
+4- How do you close an if statement?
+
+The if statement is closed with the word fi.
+
+
+5- what is your experience using awk and sed command?
+
+The awk  and sed commands. The first one as filtering language utility is a very handy tool to filter huge data and in scripting. It is also very useful while combined with sed commands because they enable me to perform  practical text manipulation depending on what one wants to operate.
+
+
+
+
+6- create a repo in your github account called Hardening.
+
+
+
+
+7- At Data Service , the document CENTOS7-HARDENING-CIS.TXT in week12 folder, represent the cis parameters that need to be implemented on centos7 servers. Write a script to perform all these tasks.
+
+
+8- clone the hardening repo created on question 6, add your script from question 7 in there, push it back to gihub and send me the hardening repository url.
+
+
+9-what is git ?
+
+
+
+10- Data service staff you with a company , and they want you to advise or help them secure thier ubuntu servers. How would you do that?
+
